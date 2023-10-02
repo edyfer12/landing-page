@@ -121,3 +121,29 @@ button {
     background: rgba(128,128,128,0.6);
     font-family: sans-serif;
 }
+
+/* Add style to the class selector */
+
+.second-row {}
+
+/* Add style to the type selector */
+
+h3 {}
+
+/* Add style to the class selector */
+
+.image-box-group {}
+
+/* Add style to the class selector */
+
+.image-box {}
+
+/* Add style to the class selector */
+
+.box {}
+
+/* Add style to the class selector */
+
+.subtext {}
+
+/* Add style to the class selector */
