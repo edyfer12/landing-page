@@ -251,7 +251,7 @@ blockquote {
     margin: 0
 }
 
-/* Add style to the class selector */
+/* Add style to the grouping selectors */
 
 .footer, .header {
     display: flex;
