@@ -6,3 +6,27 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+/* Add style to the type selector */
+
+body {}
+
+/* Add style to the class */
+
+.header {}
+
+/* Add style to the class */
+
+.nav {}
+
+/* Add style to the class */
+
+.logo {}
+
+/* Add style to the class */
+
+.nav-right {}
+
+/* Add style to the class */
+
+.link {}
