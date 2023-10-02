@@ -256,6 +256,9 @@ blockquote {
 .footer, .header {
     display: flex;
     background: #1F2937;
+    height: 70px;
+    justify-content: center;
+    align-items: center;
 }
 
 /* Add style to the class selector */
