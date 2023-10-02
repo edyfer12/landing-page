@@ -71,7 +71,7 @@ body {
 /* Add style to the class */
 
 .hero {
-    height: 220px;
+    height: 230px;
     display: flex;
     width: 880px;
 }
@@ -87,7 +87,8 @@ body {
 h1 {
     color: #f9faf8;
     font-size: 48px;
-    font-weight: bolder;
+    font-weight: 800;
+    font-family: sans-serif;
 }
 
 /* Add style to the type selector */
@@ -102,11 +103,11 @@ p {
 button {
     color: white;
     background: #3882f6;
-    border-radius: 7px;
-    height: 35px;
-    width: 100px;
+    border-radius: 8px;
+    height: 37px;
+    width: 105px;
     font-weight: bold;
-    margin-top: 5px;
+    margin-top: 12px;
 }
 
 /* Add style to the class selector */
@@ -116,5 +117,6 @@ button {
     text-align: center;
     color: #e5e7eb;
     padding: 100px 0;
-    background: grey;
+    background: rgba(128,128,128,0.6);
+    font-family: sans-serif;
 }
