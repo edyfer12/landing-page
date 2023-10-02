@@ -12,6 +12,7 @@
 body {
     display: flex;
     flex-direction: column;
+    font-family: sans-serif;
 }
 
 /* Add style to the class */
@@ -38,7 +39,6 @@ body {
     font-size: 24px;
     color: #f9faf8;
     font-weight: bold;
-    font-family: sans-serif;
 }
 
 /* Add style to the class */
