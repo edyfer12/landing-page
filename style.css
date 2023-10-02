@@ -17,16 +17,6 @@ body {
 
 /* Add style to the class */
 
-.header {
-    display: flex;
-    background: #1F2937;
-    justify-content: center;
-    height: 70px;
-    align-items: center;
-}
-
-/* Add style to the class */
-
 .nav {
     display: flex;
     justify-content: space-between;
