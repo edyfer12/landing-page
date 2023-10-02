@@ -124,26 +124,60 @@ button {
 
 /* Add style to the class selector */
 
-.second-row {}
+.second-row {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    padding: 45px 0;
+}
 
 /* Add style to the type selector */
 
-h3 {}
+h3 {
+    text-align: center;
+    font-size: 36px;
+    font-weight: 600;
+    color: #1f2937;
+}
 
 /* Add style to the class selector */
 
-.image-box-group {}
+.image-box-group {
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+    width: 710px;
+}
 
 /* Add style to the class selector */
 
-.image-box {}
+.image-box {
+    flex: 1;
+}
 
 /* Add style to the class selector */
 
-.box {}
+.box {
+    height: 150px;
+    border: 2px solid #3882f6;
+    border-radius: 5px;
+    margin-bottom: 11px;
+    width: 100%;
+}
 
 /* Add style to the class selector */
 
-.subtext {}
+.subtext {
+    text-align: center;
+    font-size: 16px;
+}
+
+/* Add style to the class selector */
+
+/* Add style to the class selector */
+
+/* Add style to the type selector */
 
 /* Add style to the class selector */
