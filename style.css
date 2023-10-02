@@ -16,20 +16,40 @@ body {
 
 /* Add style to the class */
 
-.header {}
+.header {
+    display: flex;
+    background: #1F2937;
+    justify-content: center;
+    height: 70px;
+    align-items: center;
+}
 
 /* Add style to the class */
 
-.nav {}
+.nav {
+    display: flex;
+    justify-content: space-between;
+    width: 720px;
+}
 
 /* Add style to the class */
 
-.logo {}
+.logo {   
+    font-size: 24px;
+    color: #f9faf8;
+    font-weight: bold;
+}
 
 /* Add style to the class */
 
-.nav-right {}
+.nav-right {
+    display: flex;
+    gap: 10px;
+}
 
 /* Add style to the class */
 
-.link {}
+.link {
+    font-size: 18px;
+    color: #e5e7eb;
+}
