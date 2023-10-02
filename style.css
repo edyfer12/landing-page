@@ -260,4 +260,6 @@ blockquote {
 
 /* Add style to the class selector */
 
-.copyright {}
+.copyright {
+    color:#e5e7eb; 
+}
