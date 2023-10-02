@@ -9,7 +9,10 @@
 
 /* Add style to the type selector */
 
-body {}
+body {
+    display: flex;
+    flex-direction: column;
+}
 
 /* Add style to the class */
 
