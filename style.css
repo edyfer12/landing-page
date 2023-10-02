@@ -148,7 +148,7 @@ h3 {
     display: flex;
     gap: 40px;
     justify-content: center;
-    width: 710px;
+    width: 746px;
 }
 
 /* Add style to the class selector */
@@ -164,7 +164,6 @@ h3 {
     border: 2px solid #3882f6;
     border-radius: 5px;
     margin-bottom: 11px;
-    width: 100%;
 }
 
 /* Add style to the class selector */
@@ -187,7 +186,7 @@ h3 {
 /* Add style to the class selector */
 
 .quote-container {
-    width: 814px;
+    width: 820px;
 }
 
 /* Add style to the type selector */
@@ -203,7 +202,7 @@ blockquote {
 
 .philosopher {
     font-weight: bold;
-    width: 175px;
+    width: 195px;
     margin-left: auto;
     color: black;
 }
