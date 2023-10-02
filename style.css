@@ -59,7 +59,6 @@ body {
 /* Add style to the class */
 
 .hero {
-    height: 240px;
     display: flex;
     width: 880px;
 }
