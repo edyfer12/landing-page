@@ -209,3 +209,54 @@ blockquote {
     margin-left: auto;
     color: black;
 }
+
+/* Add style to the class selector */
+
+.fourth-row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+}
+
+/* Add style to the class selector */
+
+.call-to-action {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 130px;
+    /* padding: 25px 30px; */
+    background: #3882f6;
+    border-radius: 15px;
+    width: 904px;
+    /* gap: 100px; */
+}
+
+/* Add style to the class selector */
+
+.call-to-action-text {
+    width: 457px;
+    color: black;
+}
+
+/* Add style to the descendant combinator */
+
+.call-to-action-text h2 {
+    color: white;
+}
+
+/* Add style to the descendant combinator */
+
+.call-to-action-text p {
+
+}
+
+/* Add style to the class selector */
+
+.call-to-action-btn {
+    border: 2px solid white;
+    width: 140px;
+    font-weight: bolder;
+    margin: 0
+}
