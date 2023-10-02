@@ -118,10 +118,3 @@ button {
     padding: 100px 0;
     background: grey;
 }
-
-/* Add style to descendant combinator */
-
-.placeholder span {
-    color: #e5e7eb;
-    font-family: sans-serif;
-}
