@@ -102,9 +102,9 @@ p {
 button {
     color: white;
     background: #3882f6;
-    border-radius: 5px;
-    height: 34px;
-    width: 113px;
+    border-radius: 7px;
+    height: 35px;
+    width: 100px;
     font-weight: bold;
     margin-top: 5px;
 }
@@ -117,4 +117,10 @@ button {
     color: #e5e7eb;
     padding: 100px 0;
     background: grey;
+}
+
+/* Add style to descendant combinator */
+
+.placeholder span {
+    color: #e5e7eb;
 }
