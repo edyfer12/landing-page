@@ -176,16 +176,34 @@ h3 {
 
 /* Add style to the class selector */
 
-.third-row {}
+.third-row {
+    background: #e5e7eb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+}
 
 /* Add style to the class selector */
 
-.quote-container {}
+.quote-container {
+    width: 814px;
+}
 
 /* Add style to the type selector */
 
-q {}
+blockquote {
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    color: #1f2937;
+}
 
 /* Add style to the class selector */
 
-.philosopher {}
+.philosopher {
+    font-weight: bold;
+    width: 175px;
+    margin-left: auto;
+    color: black;
+}
