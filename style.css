@@ -60,28 +60,61 @@ body {
 
 /* Add style to the class */
 
-.first-row {}
+.first-row {
+    background: #1F2937;
+    display: flex;
+    justify-content: center;
+    height: 363px;
+    align-items: center;
+}
 
 /* Add style to the class */
 
-.hero {}
+.hero {
+    height: 220px;
+    display: flex;
+    width: 880px;
+}
 
 /* Add style to the class */
 
-.text-button {}
+.text-button {
+    flex: 1;
+}
 
 /* Add style to the type selector */
 
-h1 {}
+h1 {
+    color: #f9faf8;
+    font-size: 48px;
+    font-weight: bolder;
+}
 
 /* Add style to the type selector */
 
-p {}
+p { 
+    font-size: 18px;
+    color: #e5e7eb;
+}
 
 /* Add style to the type selector */
 
-button {}
+button {
+    color: white;
+    background: #3882f6;
+    border-radius: 5px;
+    height: 34px;
+    width: 113px;
+    font-weight: bold;
+    margin-top: 5px;
+}
 
 /* Add style to the class selector */
 
-.placeholder {}
+.placeholder {
+    flex: 1;
+    text-align: center;
+    color: #e5e7eb;
+    padding: 100px 0;
+    background: grey;
+}
