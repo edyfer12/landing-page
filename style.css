@@ -58,10 +58,6 @@ body {
 
 /* Add style to the class */
 
-.content {}
-
-/* Add style to the class */
-
 .first-row {
     background: #1F2937;
     display: flex;
@@ -244,12 +240,6 @@ blockquote {
 
 .call-to-action-text h2 {
     color: white;
-}
-
-/* Add style to the descendant combinator */
-
-.call-to-action-text p {
-
 }
 
 /* Add style to the class selector */
