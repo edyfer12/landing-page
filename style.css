@@ -61,6 +61,7 @@ body {
 .hero {
     display: flex;
     width: 880px;
+    gap:20px;
 }
 
 /* Add style to the class */
@@ -103,11 +104,18 @@ button {
 
 .placeholder {
     flex: 1;
-    text-align: center;
+    display: flex;
+    justify-content: center;
     color: #e5e7eb;
     padding: 110px 0;
     background: rgba(128,128,128,0.6);
     font-family: sans-serif;
+}
+
+/* Add style to the type selector */
+
+span {
+    align-self: center;
 }
 
 /* Add style to the class selector */
