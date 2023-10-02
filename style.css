@@ -253,7 +253,10 @@ blockquote {
 
 /* Add style to the class selector */
 
-.footer, .header {}
+.footer, .header {
+    display: flex;
+    background: #1F2937;
+}
 
 /* Add style to the class selector */
 
